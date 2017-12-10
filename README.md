@@ -15,3 +15,12 @@ I release this texturepack to the public, because everyone should be able to enj
 This readme is not yet finished, i'll add some screenshots, and detailed instructions on how to install.
 
 If you want, here is a video i made a long time ago to show what it looks like (Sorry, it's in french) https://youtu.be/ierYnCBnozg
+
+## Known bugs
+With SEUS :
+- Rotated textures don't correctly take into account direction of light.
+- Same for double doors.
+- Parralax Occlusion Mapping can also glitch on rotated quartz pillars
+- Parallax self-shadow does'nt work properly at 16x16 resolution, keep disabled.
+With other Shaders :
+- I don't know ! (Tell me if you see something weird)

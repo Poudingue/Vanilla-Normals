@@ -5,7 +5,7 @@ A shaders compatible minecraft texturepack, based on vanilla but with normals an
 
 This version is designed to work with Sonic Ether's Unbelievable Shaders 11 and BELOW.
 I will probably not update it, since i'm working on a version compatible with PBR shaders (For example Continuum or SEUS renewed).
-For this new version, look here : https://github.com/Poudingue/Vanilla-Normals-Renewed
+For the last version, look here : https://github.com/Poudingue/Vanilla-Normals-Renewed
 
 ## Description
 I didn't want any of those fancy high-resolution texturepacks in order to enjoy normal mapping and specular highlights.
